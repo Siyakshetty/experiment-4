@@ -7,7 +7,7 @@ making changes in the notes file
 
 feature2
 Sneha Rani
-i have changed
+i have changed my file
  main
 login page feature implemented.
 
